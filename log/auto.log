@@ -1,0 +1,63 @@
+2020-06-04 18:17:53,034 - root - runner.py- INFO - Start to excute automation cases
+2020-06-04 18:22:08,489 - root - INFO - Start to excute automation cases
+2020-06-04 18:24:42,961 - root - INFO - Start to excute automation cases
+2020-06-04 18:31:21,214 - root - INFO - Start to excute automation cases
+2020-06-04 18:34:22,136 - root - INFO - Start to excute automation cases
+2020-06-04 18:35:30,051 - root - INFO - Start to excute automation cases
+2020-06-04 18:39:11,194 - root - INFO - Start to excute automation cases
+2020-06-04 18:39:28,886 - root - INFO - Start to excute automation cases
+2020-06-04 18:39:29,307 - root - INFO - init base api interface
+2020-06-04 18:39:29,307 - root - DEBUG - url
+2020-06-07 09:22:27,653 - root - INFO - Start to excute automation cases
+2020-06-07 09:22:28,419 - root - INFO - init base api interface
+2020-06-07 09:22:28,419 - root - DEBUG - url
+2020-06-07 09:26:27,531 - root - INFO - Start to excute automation cases
+2020-06-07 09:26:27,766 - root - INFO - init base api interface
+2020-06-07 09:26:27,766 - root - DEBUG - url
+2020-06-07 09:31:57,260 - root - INFO - Start to excute automation cases
+2020-06-07 09:31:57,510 - root - INFO - init base api interface
+2020-06-07 09:31:57,510 - root - DEBUG - url
+2020-06-07 09:32:58,269 - root - INFO - Start to excute automation cases
+2020-06-07 09:32:58,681 - root - INFO - init base api interface
+2020-06-07 09:32:58,681 - root - DEBUG - url
+2020-06-08 17:24:58,195 - root - INFO - Start to excute automation cases
+2020-06-08 17:28:51,382 - root - INFO - Start to excute automation cases
+2020-06-08 17:28:52,258 - root - INFO - init base api interface
+2020-06-08 17:28:52,258 - root - DEBUG - url
+2020-06-08 17:31:42,757 - root - INFO - Start to excute automation cases
+2020-06-08 17:31:43,333 - root - INFO - init base api interface
+2020-06-08 17:31:43,333 - root - DEBUG - url
+2020-06-08 17:40:46,571 - root - INFO - Start to excute automation cases
+2020-06-08 17:40:47,680 - root - INFO - init base api interface
+2020-06-08 17:40:47,681 - root - DEBUG - url
+2020-06-11 13:30:38,635 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-11 13:30:39,347 - root - INFO - baseapi- 11- init base api interface
+2020-06-11 13:30:39,347 - root - DEBUG - depmanagment- 24- url
+2020-06-14 13:25:05,527 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 13:25:05,995 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 13:25:05,995 - root - DEBUG - depmanagment- 24- url
+2020-06-14 13:37:56,881 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 13:37:57,138 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 13:37:57,138 - root - DEBUG - depmanagment- 24- url
+2020-06-14 14:16:40,352 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 14:16:40,618 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 14:26:07,540 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 14:26:07,796 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 14:26:59,638 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 14:26:59,890 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 14:26:59,890 - root - INFO - depmanagment- 11- Init department management API
+2020-06-14 14:26:59,890 - root - INFO - baseapi- 19- params{'corpid': 'ww7465905bf54682ce', 'corpsecret': 'q-QmYiUXb5O6NZr8T3W8RCSlerU4k0u8ZJedmhFoXek'}
+2020-06-14 14:26:59,890 - root - INFO - baseapi- 20- token_url:https://qyapi.weixin.qq.com/cgi-bin/gettoken
+2020-06-14 14:26:59,905 - urllib3.connectionpool - DEBUG - connectionpool- 941- Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2020-06-14 14:27:00,374 - urllib3.connectionpool - DEBUG - connectionpool- 442- https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=ww7465905bf54682ce&corpsecret=q-QmYiUXb5O6NZr8T3W8RCSlerU4k0u8ZJedmhFoXek HTTP/1.1" 200 277
+2020-06-14 14:27:00,468 - urllib3.connectionpool - DEBUG - connectionpool- 941- Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2020-06-14 14:27:00,771 - urllib3.connectionpool - DEBUG - connectionpool- 442- https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=Ori5y0u-yqiMow-Hbxu3PDudJKm-52ZI3TRExJjX9ptb99bvM8MCGiGXp60zS-pDFvjRKqMPzaiWcKldiIQ_z6C05IkyjlMp12t_fOs2y_4chXrMSOBA_kso8CYfb_qJeuGWPlAEOWDyHuE-q-Cz9TGlsjiJnA4ejLdfsIZ5dLCKylrppIGQEeRpHPcXVCuZwSI1gaL7dThZRrmQLbt4hg HTTP/1.1" 200 39
+2020-06-14 14:29:05,168 - root - INFO - runner- 18- Start to excute automation cases
+2020-06-14 14:29:05,410 - root - INFO - baseapi- 11- init base api interface
+2020-06-14 14:29:05,411 - root - INFO - depmanagment- 11- Init department management API
+2020-06-14 14:29:05,411 - root - INFO - baseapi- 18- params{'corpid': 'ww7465905bf54682ce', 'corpsecret': 'q-QmYiUXb5O6NZr8T3W8RCSlerU4k0u8ZJedmhFoXek'}
+2020-06-14 14:29:05,411 - root - INFO - baseapi- 19- token_url:https://qyapi.weixin.qq.com/cgi-bin/gettoken
+2020-06-14 14:29:05,414 - urllib3.connectionpool - DEBUG - connectionpool- 941- Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2020-06-14 14:29:05,912 - urllib3.connectionpool - DEBUG - connectionpool- 442- https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=ww7465905bf54682ce&corpsecret=q-QmYiUXb5O6NZr8T3W8RCSlerU4k0u8ZJedmhFoXek HTTP/1.1" 200 277
+2020-06-14 14:29:05,955 - urllib3.connectionpool - DEBUG - connectionpool- 941- Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2020-06-14 14:29:06,266 - urllib3.connectionpool - DEBUG - connectionpool- 442- https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=Ori5y0u-yqiMow-Hbxu3PDudJKm-52ZI3TRExJjX9ptb99bvM8MCGiGXp60zS-pDFvjRKqMPzaiWcKldiIQ_z6C05IkyjlMp12t_fOs2y_4chXrMSOBA_kso8CYfb_qJeuGWPlAEOWDyHuE-q-Cz9TGlsjiJnA4ejLdfsIZ5dLCKylrppIGQEeRpHPcXVCuZwSI1gaL7dThZRrmQLbt4hg HTTP/1.1" 200 194
